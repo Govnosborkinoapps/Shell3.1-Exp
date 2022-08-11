@@ -4,3 +4,6 @@ Opensource Shell from Windows 3.1(original by VeselCraft:https://github.com/vese
 
 Made on c# language
 
+Changelog:
+Added Russification
+
